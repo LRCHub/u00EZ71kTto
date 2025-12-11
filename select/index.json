@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Howling",
+  "base_artist": "大神ミオ",
+  "createdAt": "2025-12-11T08:26:46.619862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Howling",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/01_Howling_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Howling Furies",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/02_Howling_Furies_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Howling Furies (Live)",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/03_Howling_Furies_(Live)_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Howling At the Moon",
+      "artist": "Ariel Pink's Haunted Graffiti",
+      "has_synced": false,
+      "path": "select/04_Howling_At_the_Moon_Ariel_Pink's_Haunted_Graffiti.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Howling At The Moon",
+      "artist": "Phantogram",
+      "has_synced": false,
+      "path": "select/05_Howling_At_The_Moon_Phantogram.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Howling Rain",
+      "artist": "Loudness",
+      "has_synced": true,
+      "path": "select/06_Howling_Rain_Loudness.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beneath the Howling Stars",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/07_Beneath_the_Howling_Stars_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beneath the Howling Stars",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/08_Beneath_the_Howling_Stars_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Howling",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/09_The_Howling_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Howling",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/10_The_Howling_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Howling - Single Version",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/11_The_Howling_-_Single_Version_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Howling (Single Version)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/12_The_Howling_(Single_Version)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Eternal Struggles of the Howling Man",
+      "artist": "Rob Zombie",
+      "has_synced": true,
+      "path": "select/13_The_Eternal_Struggles_of_the_Howling_Man_Rob_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Howling Furies",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/14_Howling_Furies_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Howling Furies (Collectors Rare Track)",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/15_Howling_Furies_(Collectors_Rare_Track)_Anthrax.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Howling",
+      "artist": "大神ミオ",
+      "has_synced": false,
+      "path": "select/pl_01_Howling_大神ミオ.txt"
+    }
+  ]
+}
